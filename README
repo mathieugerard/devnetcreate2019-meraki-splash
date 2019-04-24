@@ -1,0 +1,12 @@
+# Mapwize in your Meraki Splash page
+
+## Meraki Walled garden
+
+```
+*.ngrok.io
+*.mapwize.io
+fonts.googleapis.com
+www.google-analytics.com
+fonts.gstatic.com
+mapwizecdn2.azureedge.net
+```
